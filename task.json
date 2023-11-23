@@ -1,0 +1,384 @@
+[
+    {
+        "id": 60769,
+        "annotations": [
+            {
+                "id": 22213,
+                "completed_by": 11,
+                "result": [
+                    {
+                        "value": {
+                            "start": 22,
+                            "end": 29,
+                            "labels": [
+                                "Company Name"
+                            ]
+                        },
+                        "id": "LrcJ0S3qBM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 226,
+                            "end": 233,
+                            "labels": [
+                                "Company Name"
+                            ]
+                        },
+                        "id": "mfzkcZ8ldp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 226,
+                            "end": 636,
+                            "labels": [
+                                "About Company"
+                            ]
+                        },
+                        "id": "DYnIFIOtlD",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1001,
+                            "end": 1008,
+                            "labels": [
+                                "Company Name"
+                            ]
+                        },
+                        "id": "6ppElF_5p5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 923,
+                            "end": 1264,
+                            "labels": [
+                                "About Company"
+                            ]
+                        },
+                        "id": "ndSoCTO6z4",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1297,
+                            "end": 1314,
+                            "labels": [
+                                "Job Title"
+                            ]
+                        },
+                        "id": "4IfPv3oaBy",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1366,
+                            "end": 1373,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "-Q0wzG1G57",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1358,
+                            "end": 1364,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "aV1VyZf-k_",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1422,
+                            "end": 1430,
+                            "labels": [
+                                "Experience"
+                            ]
+                        },
+                        "id": "hDJ1Vp5rGD",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1534,
+                            "end": 1586,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "wI6ET2YhUu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1588,
+                            "end": 1697,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "hg73sxlFaj",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1713,
+                            "end": 1769,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "9FuNFZjTT-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1561,
+                            "end": 1570,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "vnpUE6jH6H",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1572,
+                            "end": 1579,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "eokhTA2TJm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1580,
+                            "end": 1585,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "MBqNAQJEdY",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1735,
+                            "end": 1737,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "RkFhxH2zeG",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1740,
+                            "end": 1742,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "B-Xw92oiD6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1799,
+                            "end": 1802,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "V0EXUxzQJK",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1804,
+                            "end": 1811,
+                            "labels": [
+                                "Skill"
+                            ]
+                        },
+                        "id": "Q7LCuU-a9D",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1814,
+                            "end": 1937,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "VAaPtPOWqJ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1953,
+                            "end": 2095,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "dokvviBZZT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 2112,
+                            "end": 2230,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "4PTJB3YD5q",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 2247,
+                            "end": 2331,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "-pTj0JWBiw",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 2347,
+                            "end": 2368,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "yOIWSzw1vU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 2384,
+                            "end": 2546,
+                            "labels": [
+                                "Duty"
+                            ]
+                        },
+                        "id": "qMnWAV3hy6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2023-09-10T08:34:21.533576Z",
+                "updated_at": "2023-09-10T08:34:21.533608Z",
+                "lead_time": 6210.002,
+                "prediction": {},
+                "result_count": 0,
+                "task": 60769,
+                "parent_prediction": null,
+                "parent_annotation": null
+            }
+        ],
+        "file_upload": "3153ff29-jobs.link_1_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "DotNet Developer",
+            "description": "<strong>\n <u>\n  About Virtusa\n <\/u>\n<\/strong>\n<p>\n <br\/>\n<\/p>\nAdd the Middle East to your global professional experience and have the opportunity to work on some of the leading Digital Transformation programs.\n<p>\n <br\/>\n<\/p>\nVirtusa is one of the fastest growing IT Services companies in the Middle East with a growing client base in the UAE, KSA, Qatar &amp; Oman and we work with the leading Banking and Financial Services, Travel, Telecom and Enterprises firms in the region. We have partnered with our clients to win awards from Gartner, IDC, WfMC and other analyst for the work that we have delivered to our clients in the region.\n<p>\n <br\/>\n<\/p>\nWhy would you not like to be part of this exciting and award winning team? Don’t listen to us, listen to our customers\n<p>\n <br\/>\n<\/p>\n<u>\n (\n<\/u>\nhttps:\/\/www.youtube.com\/watch?v=JrDNtTLKkPc\n<u>\n ;\n<\/u>\n&amp; https:\/\/www.youtube.com\/watch?v=MhzhZt1GJvM)\n<p>\n <br\/>\n<\/p>\nTeamwork, quality of life, professional and personal development: values that Virtusa is proud to embody. When you join us, you join a team of 30,000+ people globally that cares about your growth — one that seeks to provide you with exciting projects, opportunities and work with state of the art technologies throughout your career with us.\n<p>\n <br\/>\n<\/p>\n<strong>\n Role: Dot Net Developer\n<\/strong>\n<p>\n <br\/>\n<\/p>\n<strong>\n Skill: DotNet, Angular\n<\/strong>\n<p>\n <br\/>\n<\/p>\n<strong>\n Experience: 5+ Years\n<\/strong>\n<p>\n <br\/>\n<\/p>\n<strong>\n <u>\n  Job Description\n <\/u>\n<\/strong>\n<p>\n <br\/>\n<\/p>\n<ul>\n <li>\n  Full Stack Technical Lead (.NET Core, Angular\/React). Design and build IT solutions which are scalable, resilient and sustainable to address business requirements.\n <\/li>\n <li>\n  Assist to develop the UI \/ UX as per the business needs.\n <\/li>\n <li>\n  Proficient in UML, Prepare \/ Review High Level and Low-Level Design artefacts, ensure adherence to QRIT Software Governance Integration (SGI) standards.\n <\/li>\n <li>\n  Responsible for development and unit testing for complex. modules in case of bespoke development and root cause analysis of reported incidents.\n <\/li>\n <li>\n  Understanding project requirements and developing detailed structure. Implementing best practices and coding standards.\n <\/li>\n <li>\n  Leading the project team in terms of providing technical guidance, help design etc..\n <\/li>\n <li>\n  Perform code reviews.\n <\/li>\n <li>\n  Contribute to and review Documentation of Functional Specifications, Interface Specifications and Non-Functional Requirements, Performance and Load testing specs.\n <\/li>\n<\/ul>\n"
+        },
+        "meta": {},
+        "created_at": "2023-08-24T10:38:47.769386Z",
+        "updated_at": "2023-09-10T08:34:21.562796Z",
+        "project": 55
+    }
+]
